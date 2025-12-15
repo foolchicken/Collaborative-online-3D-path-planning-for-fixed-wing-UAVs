@@ -7,6 +7,6 @@ online path plan for fixed-UAVs base on Dubins-RRT*
 
 函数入口为3dim\Quick-Dubins-MP-RRT\multiPathPlanDemo.m
 
-路径需要修改
+路径需要自行修改
 
 offline计算的运动基元占用空间较多
